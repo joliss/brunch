@@ -2,7 +2,7 @@
 
 Brunch uses configuration file (`config.coffee` or `config.js`) located in the root directory to control various aspects of your application.
 
-You can see all config default values in `setConfigDefaults` function of `src/helpers.coffee` in brunch source code.
+You can see all config default values in the `setConfigDefaults` function of [`src/helpers.coffee`](/src/helpers.coffee) in the brunch source code.
 
 You can also import node.js modules in configuration file.
 
